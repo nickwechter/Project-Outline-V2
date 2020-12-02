@@ -100,24 +100,22 @@ b.	Statistical outliers, at least top 5% in the league…
 c.	Shoe deals and shoe sales…Magazine covers
 
 The role of facts and feelings:
+
 13.	Do you ever feel torn about “hating” a player and admiring their greatness?
 a.	Alternative: Are there players you hate that are recognized as great? Are there players you think that are great that are not recognized as such?
 b.	Yeah… constant balance of recognizing talent, but going against personal tastes… (influence by purely counting stats, winning…)
-14.	Why?
 15.	What influences how you feel about a player?
 a.	We got to this
+
 16.	Do you believe in “intangible” factors that influence a players greatness?
 a.	Yes – see on “seeing something you’ve never seen before…”
 b.	Maybe intangibles are becoming tangible with technology
 i.	“People wont remember what you did or what you said but will remember how you made them feel” – Maya Angelou
 ii.	How you felt when you watch that player… Watching people cry when they lose… 
-c.	Why / Why not?
-d.	What are they?
+
 
 
 ### Interview 2: E.V
-Background:
-I would like to explore the potential for (and make an argument supporting) Luka Doncic’s status as a generationally unique NBA player. To dive into Luka’s potential and status, I would like to explore the factors that distinguish NBA players from each other in the eyes of fans.  
 
 Characterize the participant:
 
@@ -129,68 +127,72 @@ a.	Every days
 a.	Social media, highlights, player interviews, SM accounts, youtube highlights, podcast, articles
 
 How you view NBA players, and what makes them special:
-Iterate over this as many times as you want:
+
 20.	Who is your favorite player?
 a.	KAT
+
 21.	Why were they your favorite?
 a.	Because he plays for my favorite team, he is their last hope… 
+
 22.	Are you aware of any other players with similar accolades that you are drawn to?
 a.	No, the other players I am drawn to more are ones that are known for being tough, or having something against them that they have overcome (dame lilard was small and underranked until he became a star, Luka… Gianis came from nothing and didn’t play until late)
+
 23.	What sets them apart from similar players?
 a.	Overcoming adversity and being better than anyone expected them to be
-24.	Is there anything else?
+
 25.	What draws you to different players?
 a.	Ones that are outliers, but in specialty ways (steph – shooting, Boban isn’t good but hes huge) -> don’t fit a mold of what has been seen before
+
 26.	What do you believe makes players “withstand the test of time”?
 a.	You have to be able to tell a story about them -> their story has to be unique and one of a kind and exceptional… ITS STORY TELLING -> what you can tell your children about
 
-The role of facts and feelings:
 5.	Do you ever feel torn about “hating” a player and admiring their greatness?
 a.	Yes -> a potential to be better in some way, but the potential isn’t always in talent or production, it could be in being a better person/teammate, sometimes as a viewer the emotions get going out of frustration… 
-6.	Alternative: Are there players you hate that are recognized as great? Are there players you think that are great that are not recognized as such?
+
 7.	What influences how you feel about a player?
 a.	I am a very biased homer (I love my hometeam)… how good they are at basketball (counting stats)
+
 8.	Do you believe in “intangible” factors that influence a players greatness?
 a.	Yes
+
 9.	Why / Why not?
 a.	How you are viewed as a teammate – chemistry that you enhance directly or indirectly…
 b.	What defines these types of people, winning ALPHA – TAKEOVER THE COURT!
-10.	What are they?	
 
-Walk through of current report:
-3.	The pleasure of watching the greats:
-4.	Luka Doncic is the next great:
-a.	Luka’s unique background:
-b.	Luka’s Statistics:
 
 
 ### Interview 1: R.R
+
 Characterize the participant:
 6.	How long have you been an NBA fan?
 a.	19 years
+
 7.	How often do you watch?
 a.	3-4 times a week
+
 8.	What other ways do you engage with the NBA?
 a.	SM, fantasy basketball, general convo
 
-How you view NBA players, and what makes them special:
-Iterate over this as many times as you want:
+
 27.	Who is your favorite player?
 a.	Dame Llilard
+
 28.	Why were they your favorite?
 a.	How loyal he is to the city of Portland (unique in this era), has been slept on his whole career, got hurt and bounced back, overcame adversity
+
 29.	Are you aware of any other players with similar accolades that you are drawn to?
 a.	Yes, and I like them for similar reasons…
+
 30.	What sets them apart from similar players?
 a.	NA
-31.	Is there anything else? -> NA
+
 32.	What draws you to different players?
 a.	Got a little dog in them (jimmy butler, chip on his shoulder F-you attitude), loyalty
 b.	Lovable players – personalities, lets have fun, memes…
-33.	What do you believe makes players “withstand the test of time”?
+
+What do you believe makes players “withstand the test of time”?
 a.	Demeanor, how they carried themselves, and how they played… PERSONALITIES!!! Historic competitiveness (KG, Kobe)
 
-The role of facts and feelings:
 11.	Do you ever feel torn about “hating” a player and admiring their greatness?
 a.	Alternative: Are there players you hate that are recognized as great? Are there players you think that are great that are not recognized as such?
 12.	Why?
