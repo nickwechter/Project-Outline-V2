@@ -61,15 +61,21 @@ a.	5-6 games per week
 a.	Social Media, Read analysis, play fantasy basketball, podcast
 
 How you view NBA players, and what makes them special:
+
 Iterate over this as many times as you want:
+
 4.	Who is your favorite player?
-a.	Gianis Ant..
+
+> a.	Gianis Ant..
+
 5.	Why were they your favorite?
+
 a.	Unique underdog story (coming up immigrant from Nigeria, living on street of Athens…) was aware before he was drafted
 b.	Gets better every year, no one has seen anything like him (physical) 
 c.	Raw passion and talent, 
 d.	Breadth of fresh air from media raised superstars (humble)
 i.	No deals on the side, just playing basketball
+
 6.	Are you aware of any other players with similar attributes that you are drawn to?
 a.	Another player with similarities is Kawaii (quiet, down to earth… lets his game speak… -> lost love with forcing his way out of SA…)
 b.	Mitchel Robinson (used to joke that I liked long players… Bam… Physical characteristics – hes like an octopus on Defense…
