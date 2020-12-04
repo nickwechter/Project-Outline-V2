@@ -211,7 +211,23 @@ b.	What they do off the court – community engagement…
 -	I will have to find a way to visualize one-time accomplishments that set Luka apart from others (triple doubles, leading a team to the playoffs… more)
 o	This presents a unique challenge because they are one-offs… Most of the data visualizations I am comfortable with rely on large amounts of data and showing trends…
 -	It seems like a lot of sentimental value in the historic greats
-o	I really like what EV said about “what you can tell your kids about”..;.
+o	I really like what EV said about “what you can tell your kids about”...
+
+### Development Plan:
+#### Section 1: Explore Greatness of Athletes / Something Special
+- Visualizations:
+-- Steph curry shooting year
+-- Shaq size
+-- AI usage rate
+
+#### Section 2: Luka Up next / SHowing Flashes
+- Populate Intro and Bio
+- European Player - drafting Euro Players 
+- Euros in hall of fame
+- Visualize physique against other players and guards
+- Fix Radar Charts...
+- Data wrangling for dot plots
+
 
 ## Link to Story Board and WireFrames
 https://preview.shorthand.com/K0kWpOi8dSlIwEfX
