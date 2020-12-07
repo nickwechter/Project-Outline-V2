@@ -99,7 +99,9 @@ answer: (On: 50, Off: 50) -> first 50 is on the court, second 50 is off the cour
 10.	What draws you to different players? (do you believe in historic greatness, what makes you put the label of greatness on someone)
 
 answer:	Not interested in who is “the best”... I think we are drawn to “the mythology” of the sport – ancient Greek heroes (achilles, alexander the great)… we look up to these people because they’ve done something that we’ve never seen before, not interesting to compare them, we just look at them in the pantheon…	(theres) Something special about a player that can achieve something that has never been done before…
+
 "Everyone can announce their presence in a unique way (on and off court)"
+
 "Pornography – you cant define it but you know it when you see it."
 
 11.	Can you identify any single variable?
