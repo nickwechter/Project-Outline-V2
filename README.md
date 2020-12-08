@@ -267,8 +267,11 @@ Thoughts: This presents a unique challenge because they are one-offs… Most of 
 #### Section 1: Explore Greatness of Athletes / Something Special
 - Visualizations:
 Steph curry shooting year
+
 Shaq size
+
 AI usage rate
+ 
 -> Need appropriate imagery to "ground" the data visualizations
 
 #### Section 2: Luka Up next / SHowing Flashes
