@@ -266,6 +266,7 @@ Thoughts: This presents a unique challenge because they are one-offs… Most of 
 ### Development Plan:
 #### Section 1: Explore Greatness of Athletes / Something Special
 - Visualizations:
+
 Steph curry shooting year
 
 Shaq size
